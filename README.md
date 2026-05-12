@@ -5,9 +5,13 @@
 ## ? Who Am I ?
 
 A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
+
  🔍 **Digital Forensic Investigation** - Following Locard and keeping documentation
+
  🛡️ **Security Research** - Finding the MO of attack to promote prevention path
+
  🏁 **CTF Enthusiast** - Capture the flag, capture the knowledge, capture the glory
+
  🚀 **Hackathon Hacker** - Because brainstorming with brilliant minds beats caffeine
 
 
@@ -16,8 +20,11 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 ## 💼 What I'm Into Right Now
 
  🌱 **Currently Leveling Up**: Advanced malware analysis, Attacks on blockchain, Easy-fy hectic fragmented investigation on CPS, Studying affects of prompt injection
+
  🔭 **Actively Hunting**: Vulnerabilities, exploits, and zerodays as daily energy drink
+
  👯 **Collab Goals**: CTF teams, security research projects, bug bounty expeditions, and incident response warfare
+ 
  💬 **Ask Me About**: Digital Forensics, Blockchain investigation, Malware analysis, IOT investigation, AI-ML, VAPT, Python
 
 
