@@ -2,7 +2,7 @@
 
 ---
 
-## 🎯 Who Am I?
+## ? Who Am I ?
 
 A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 - 🔍 **Digital Forensic Investigation** - Following Locard and keeping documentation
@@ -78,28 +78,28 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 ## 🏆 Achievements & Recognition
 
 ### 🎓 Education & Credentials
-- 🎓 **Forensic Science Graduate** - Understanding crime scenes in binary form (2021-2026)
-- 🕵️ **Cyber Forensic Investigator** - Solving digital crimes one packet at a time (2025-)
+-  **Forensic Science Graduate** - Understanding crime scenes in binary form (2021-2026)
+-  **Cyber Forensic Investigator** - Solving digital crimes one packet at a time (2025-)
 
 ### 🥇 Competitions & Hackathons
-- 🏆 **National Cyber Shield Hackathon** - JEC, Jabalpur 2025 | **3rd Position** | Developed framework to detect fake banking APK
-- 🥇 **eSakshya: Digital Crime Scene Investigation Competition** - NFSU, Delhi 2025 | **1st Position** | Excellence in mock investigation
-- 🎯 **CTF Competitor** - Multiple competitions, countless sleepless nights
+-  **National Cyber Shield Hackathon** - JEC, Jabalpur 2025 | **3rd Position** | Developed framework to detect fake banking APK
+-  **eSakshya: Digital Crime Scene Investigation Competition** - NFSU, Delhi 2025 | **1st Position** | Excellence in mock investigation
+-  **CTF Competitor** - Multiple competitions, countless sleepless nights
 
 ### 📚 Research & Publications
-- 📰 **Paper Presentation** - IFIP ICCIP, Singapore 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
-- 📊 **Poster Presentation** - IFIP ICDF, New Delhi 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
+-  **Paper Presentation** - IFIP ICCIP, Singapore 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
+-  **Poster Presentation** - IFIP ICDF, New Delhi 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
 
 ### 🎖️ Certifications & Training
-- 🏅 **Google Cybersecurity Professional Certification** - 2025
-- 📊 **NPTEL - Data Science with Python** - 2023
-- 🔒 **CDAC - DNS Security** - 2022
+-  **Google Cybersecurity Professional Certification** - 2025
+-  **NPTEL - Data Science with Python** - 2023
+-  **CDAC - DNS Security** - 2022
 
 ---
 
 ## 📊 Stats of Ata
 
-## 🎖️ Platform Achievements & Live Stats
+##  Platform Achievements & Live Stats
 
 ### 🏅 TryHackMe Rankings & Progress
 
@@ -110,7 +110,9 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 ### 🔧 Notable Contributions
 
 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
+
 📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
+
 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
 
 ---
@@ -135,14 +137,12 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 
 *All security work performed is authorized and within legal boundaries. I'm a professional cyber baddie, not a criminal one. Big difference.* 
 
-```
-*Profile inspired by those who dare to think differently and code dangerously.* 🖤💻
-```
 
 <div align="center">
 
-### 🚀 *Patching vulnerabilities, not patriarchy* 🚀
-
+```
+*Profile inspired by those who dare to think differently and code dangerously.* 🖤💻
+```
 **Last Updated**: May 2026  
 
 </div>
