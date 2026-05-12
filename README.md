@@ -99,11 +99,7 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 
 ## 📊 Stats of Ata
 
-<div align="center">
-
 ## 🎖️ Platform Achievements & Live Stats
-
-<div align="center">
 
 ### 🏅 TryHackMe Rankings & Progress
 
@@ -116,8 +112,6 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
 📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
-
-</div>
 
 ---
 
