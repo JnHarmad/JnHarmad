@@ -4,9 +4,9 @@
 
 ## 🎯 Who Am I?
 
-A **Forensic Science Graduate** turned **Cyber Baddie**, specializing in:
-- 🔍 **Digital Forensic Investigation** - Tracing modus operandi with surgical precision
-- 🛡️ **Security Research** - Finding what others prefer to leave hidden
+A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
+- 🔍 **Digital Forensic Investigation** - Following Locard and keeping documentation
+- 🛡️ **Security Research** - Finding the MO of attack to promote prevention path
 - 🏁 **CTF Enthusiast** - Capture the flag, capture the knowledge, capture the glory
 - 🚀 **Hackathon Hacker** - Because brainstorming with brilliant minds beats caffeine
 
@@ -16,28 +16,51 @@ A **Forensic Science Graduate** turned **Cyber Baddie**, specializing in:
 
 ## 💼 What I'm Into Right Now
 
-- 🔭 **Actively Hunting**: Vulnerabilities, exploits, and suspicious digital footprints
-- 🌱 **Currently Leveling Up**: Advanced malware analysis, threat intelligence, and zero-day methodologies
+- 🌱 **Currently Leveling Up**: Advanced malware analysis, Attacks on blockchain, Easy-fy hectic fragmented investigation on CPS, Studying affects of prompt injection
+- 🔭 **Actively Hunting**: Vulnerabilities, exploits, and zerodays as daily energy drink
 - 👯 **Collab Goals**: CTF teams, security research projects, bug bounty expeditions, and incident response warfare
-- 🤝 **Seeking Help With**: Finding the next big security conference talk worthy vulnerability
-- 💬 **Ask Me About**: Digital forensics, MODUS OPERANDI patterns, penetration testing, reverse engineering, or why your password is probably "123456"
-- 📫 **Reach Me**: Ready for discussions on offensive security, defensive strategies, or whether sarcasm should be classified as a threat vector
+- 💬 **Ask Me About**: Digital Forensics, Blockchain investigation, Malware analysis, IOT investigation, AI-ML, VAPT, Python
+
 
 ---
 
 ## 🧠 The Toolbox: Languages & Tech Stack
 
-### Security & Forensics Arsenal
+### Programming languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-### Forensic & Analysis Tools
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=ida&logoColor=white)
+## 🧪 Technical Toolkit
+
+### 🖥️ DFIR (Digital Forensics & Incident Response)
+![FTK Imager](https://img.shields.io/badge/FTK%20Imager-000000?style=for-the-badge)
+![Autopsy](https://img.shields.io/badge/Autopsy-003366?style=for-the-badge)
+![Oxygen Forensics](https://img.shields.io/badge/Oxygen%20Forensics-FF6600?style=for-the-badge)
 ![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge)
+
+### 🦠 Malware & Threat Analysis
+![ANY.RUN](https://img.shields.io/badge/ANY.RUN-FF0000?style=for-the-badge)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-0072FF?style=for-the-badge)
+![MobSF](https://img.shields.io/badge/MobSF-FF4444?style=for-the-badge)
+
+### 🕸️ Network Forensics
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Network Miner](https://img.shields.io/badge/Network%20Miner-000000?style=for-the-badge)
+
+### 🔨 Reverse Engineering
+![dex2jar](https://img.shields.io/badge/dex2jar-FF6600?style=for-the-badge)
+![Binary Ninja](https://img.shields.io/badge/Binary%20Ninja-FF6600?style=for-the-badge)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=ida&logoColor=white)
+
+### 🔍 Vulnerability Assessment
+![Nmap](https://img.shields.io/badge/Nmap-4B8BBE?style=for-the-badge)
+![Nessus](https://img.shields.io/badge/Nessus-00A3E0?style=for-the-badge)
+
+### 📊 SIEM
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+
 
 ### Development & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,25 +75,43 @@ A **Forensic Science Graduate** turned **Cyber Baddie**, specializing in:
 
 ---
 
-## 🏆 Achievements & Credentials
+## 🏆 Achievements & Recognition
 
-- 🎓 **Forensic Science Graduate** - Understanding crime scenes in binary form
-- 🕵️ **Digital Forensic Investigator** - Solving digital crimes one packet at a time
+### 🎓 Education & Credentials
+- 🎓 **Forensic Science Graduate** - Understanding crime scenes in binary form (2021-2026)
+- 🕵️ **Cyber Forensic Investigator** - Solving digital crimes one packet at a time (2025-)
+
+### 🥇 Competitions & Hackathons
+- 🏆 **National Cyber Shield Hackathon** - JEC, Jabalpur 2025 | **3rd Position** | Developed framework to detect fake banking APK
+- 🥇 **eSakshya: Digital Crime Scene Investigation Competition** - NFSU, Delhi 2025 | **1st Position** | Excellence in mock investigation
 - 🎯 **CTF Competitor** - Multiple competitions, countless sleepless nights
-- 🔐 **Security Researcher** - Constantly breaking things so others don't have to
-- 🚀 **Hackathon Warrior** - Group work specialist, communication certified through competitive stress
+
+### 📚 Research & Publications
+- 📰 **Paper Presentation** - IFIP ICCIP, Singapore 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
+- 📊 **Poster Presentation** - IFIP ICDF, New Delhi 2026 | *Simulation-Based Mitigation Framework for Attacks in Blockchain*
+
+### 🎖️ Certifications & Training
+- 🏅 **Google Cybersecurity Professional Certification** - 2025
+- 📊 **NPTEL - Data Science with Python** - 2023
+- 🔒 **CDAC - DNS Security** - 2022
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats of Ata
 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JnHarmad&show_icons=true&theme=midnight-purple&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JnHarmad&layout=compact&theme=midnight-purple&hide_border=true)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JnHarmad.png)](https://tryhackme.com/p/jnharmad)
 
-![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=JnHarmad&theme=midnight-purple&hide_border=true)
+**Top Languages Used**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+### 🔧 Notable Contributions
+
+- 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
+- 📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
+- 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
 
 </div>
 
@@ -90,24 +131,7 @@ A **Forensic Science Graduate** turned **Cyber Baddie**, specializing in:
 
 ## 🎬 Philosophy
 
-> **"I don't write bugs, I write security vulnerability breeding grounds."**
-
-- I believe in the power of **ethical hacking** and **responsible disclosure**
-- **MODUS OPERANDI** analysis is my superpower - understanding the pattern, predicting the next move
-- Every vulnerability is a story waiting to be told
-
-
-
-## 📝 Latest Activity
-
-You'll find me breaking things, fixing systems, and documenting the chaos:
-- 🔍 Analyzing suspicious network traffic
-- 🛠️ Contributing to security research projects
-- 🏁 Competing in CTF events
-- 📚 Learning to reverse engineer 
-- 🌐 Building tools to make the internet slightly less terrible
-
----
+"Every day, we change the world, but to chnage the world in a way that means anything, that takes more time than most people have.It never happens all at once. It's slow, It's methodical. It's exhausting. We don't all have the stomach for it."
 
 ## ⚠️ Disclaimer
 
@@ -116,8 +140,6 @@ You'll find me breaking things, fixing systems, and documenting the chaos:
 ```
 *Profile inspired by those who dare to think differently and code dangerously.* 🖤💻
 ```
-
----
 
 <div align="center">
 
@@ -136,7 +158,7 @@ You'll find me breaking things, fixing systems, and documenting the chaos:
 - **Tech Stack**: Python, AI/ML  
 - **Description**: Ground Control System with advanced AI capabilities for autonomous vehicle control and anomaly detection
 - **Focus**: Real-time data processing, intelligent decision-making, system optimization
-- **Status**: Active Development ⚡
+- **Status**: Complete dissertation⚡
 
 ### 📡 [IOT_LUCID](https://github.com/JnHarmad/IOT_LUCID)
 **IoT Forensics & Analysis Framework**
