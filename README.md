@@ -101,7 +101,11 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JnHarmad&show_icons=true&theme=midnight-purple&hide_border=true)
+## 🎖️ Platform Achievements & Live Stats
+
+<div align="center">
+
+### 🏅 TryHackMe Rankings & Progress
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JnHarmad.png)](https://tryhackme.com/p/jnharmad)
 
@@ -109,9 +113,9 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 
 ### 🔧 Notable Contributions
 
-- 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
-- 📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
-- 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
+🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
+📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
+🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
 
 </div>
 
