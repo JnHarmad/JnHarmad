@@ -99,8 +99,6 @@ A **Forensic Science Graduate** turned **Ms. Cyber Dada**, specializing in:
 
 ## 📊 Stats of Ata
 
-##  Platform Achievements & Live Stats
-
 ### 🏅 TryHackMe Rankings & Progress
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JnHarmad.png)](https://tryhackme.com/p/jnharmad)
