@@ -96,16 +96,10 @@ A **Forensic Science Graduate** specialized in **Cyber Forensics** with decent d
 
 </div>
 
----
-
-## 🎬 Philosophy
-
-"Every day, we change the world, but to chnage the world in a way that means anything, that takes more time than most people have.It never happens all at once. It's slow, It's methodical. It's exhausting. We don't all have the stomach for it."
-
 <div align="center">
 
 ```
-*Profile inspired by those who dare to think differently and code dangerously* 🖤💻
+Profile inspired by those who dare to think differently and code dangerously 🖤💻
 ```
 **Last Updated**: May 2026  
 
