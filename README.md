@@ -1,10 +1,10 @@
-
-
+# Hello! This is Anushka :)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-ata-62906224a/)
 ---
 
 ## ? Who Am I ?
 
-A **Forensic Science Graduate** specialized in: **Cyber Forensics**
+A **Forensic Science Graduate** specialized in **Cyber Forensics** with decent dedication to discover the vulnerabilities in a system and propose effective preventive measures in the form of frameworks.
 
  🌱 **Currently Leveling Up**: As 🔍**Cyber Crime Investigator** as well as 🛡️**Independent Security Researcher**
 
@@ -12,7 +12,7 @@ A **Forensic Science Graduate** specialized in: **Cyber Forensics**
 
  👯 **Collab Goals**: CTF teams, security research projects, hackathons, bug bounty expeditions, and incident response warfare
  
- 💬 **Ask Me About**: Digital Forensics, Blockchain investigation, Malware analysis, IOT investigation, AI-ML, VAPT, Python
+ 💬 **Ask Me About**: Digital Forensics, Blockchain investigation, Malware analysis, IOT investigation, AI-ML, VAPT, Python Automation
 
 
 ---
@@ -25,7 +25,7 @@ A **Forensic Science Graduate** specialized in: **Cyber Forensics**
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
-##  Technical Stack
+###  Technical Stack
 
 ### 🖥️ DFIR (Digital Forensics & Incident Response)
 ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-000000?style=for-the-badge)
@@ -105,7 +105,7 @@ A **Forensic Science Graduate** specialized in: **Cyber Forensics**
 <div align="center">
 
 ```
-*Profile inspired by those who dare to think differently and code dangerously.* 🖤💻
+*Profile inspired by those who dare to think differently and code dangerously* 🖤💻
 ```
 **Last Updated**: May 2026  
 
