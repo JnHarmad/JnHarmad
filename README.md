@@ -61,7 +61,7 @@ I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was
 
 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
 
-📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
+📱 **Darlene-X** | Advanced Static Analysis Tool for .apk  
 
 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
 
