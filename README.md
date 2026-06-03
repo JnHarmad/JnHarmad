@@ -1,23 +1,15 @@
 # Hello! This is Anushka :)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-ata-62906224a/)
 ---
-
 ## ? Who Am I ?
 
-A **Forensic Science Graduate** specialized in **Cyber Forensics** with decent dedication to discover the vulnerabilities in a system and propose effective preventive measures in the form of frameworks.
+I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was project intern at NCFL. Later I've joined Digital Forensic Lab at NFSU Delhi campus as digital forensic trainee. I did assist government raids too. Currently I'am leveling up as 🛡️**Independent Security Researcher** where I've explored domains like attacks on blockchain & efficient investigation on drone artefacts. At very recent, I've started researching on LLM-security.
 
- 🌱 **Currently Leveling Up**: As 🔍**Cyber Crime Investigator** as well as 🛡️**Independent Security Researcher**
-
- 🔭 **Actively Hunting**: Advanced malware analysis, Attacks on blockchain, Easy-fy hectic fragmented investigation on CPS, Studying affects of prompt injection
-
- 👯 **Collab Goals**: CTF teams, security research projects, hackathons, bug bounty expeditions, and incident response warfare
+ 👯 **Collab Goals**: CTF teams, security research projects, hackathons, bug bounty expeditions
  
- 💬 **Ask Me About**: Digital Forensics, Blockchain investigation, Malware analysis, IOT investigation, AI-ML, VAPT, Python Automation
-
-
+ 💬 **Ask Me About**: Digital Forensics, VAPT, Mobile & Network security, AI-ML, Python Automation
 ---
-
-## 🧠 The Toolbox: Languages & Tech Stack
+## 🧠 My Minimalistic Tech Stack
 
 ### Programming languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,54 +46,22 @@ A **Forensic Science Graduate** specialized in **Cyber Forensics** with decent d
 ### 📊 SIEM
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 
-
 ### Development & Infrastructure
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
 ### 🤖 AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
 ---
-
-## 📊 Stats of Ata
-
-### 🏅 TryHackMe Rankings & Progress
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/JnHarmad.png)](https://tryhackme.com/p/jnharmad)
-
-**Top Languages Used**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-
 ### 🔧 Notable Contributions
-
-🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
-
-📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
 
 🗂️ **Xtracta** | Forensic Evidence Extraction Tool (BTRFS Filesystem Contributor)
 
+📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
+
+🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
 ---
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anushka-ata-62906224a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:03ataanushka@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/jnharmad)
-
-</div>
-
-<div align="center">
-
-```
-Profile inspired by those who dare to think differently and code dangerously 🖤💻
-```
-**Last Updated**: May 2026  
-
-</div>
 
