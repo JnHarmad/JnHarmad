@@ -8,6 +8,7 @@ I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was
  👯 **Collab Goals**: CTF teams, security research projects, hackathons, bug bounty expeditions
  
  💬 **Ask Me About**: Digital Forensics, VAPT, Mobile & Network security, AI-ML, Python Automation
+ 
 ---
 ## 🧠 My Minimalistic Tech Stack
 
@@ -63,5 +64,6 @@ I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was
 📱 **WhatsZap** | WhatsApp Plugin for Tracking Malicious Forwarded Messages  
 
 🤖 **Satyam Guard** | Advanced Deepfake Detector Extension Development
+
 ---
 
