@@ -3,7 +3,7 @@
 ---
 ## ? Who Am I ?
 
-I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was project intern at NCFL. Later I've joined Digital Forensic Lab at NFSU Delhi campus as digital forensic trainee. I did assist government raids too. Currently I'am leveling up as 🛡️**Independent Security Researcher** where I've explored domains like attacks on blockchain & efficient investigation on drone artefacts. At very recent, I've started researching on LLM-security.
+I've completed BSc MSc Integrated Forensics with **Cyber** specialisation. I was project intern at NCFL. Later I've joined Digital Forensic Lab at NFSU Delhi campus as digital forensic trainee. I consider myself as 🛡️**Independent Cyber Security Researcher** where I've explored domains like attacks on blockchain & efficient investigation on drone artefacts. At very recent, I've started researching on LLM-security. Currently I am a Field Investigator, investigating on smart gadgets.
 
  👯 **Collab Goals**: CTF teams, security research projects, hackathons, bug bounty expeditions
  
